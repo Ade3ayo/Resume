@@ -206,7 +206,7 @@ span {
 }
 
 .text-animation span::before {
-  content: "Web Developer";
+  content: "STEM Educator";
   color: var(--main-color);
   animation: words 20s infinite;
 }
